@@ -1,4 +1,4 @@
-#testing1- reverse my name in string
+#testing 1- reverse my name in string
 myname = ["first","second","third"]
 myname[0]="third"
 myname[2]="first"
